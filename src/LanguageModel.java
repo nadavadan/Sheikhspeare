@@ -1,9 +1,5 @@
 /*
-Assignment number : 9.2
-File Name : LanguageModel.java
-Name : nadav abutbul
-Student ID : 204328116
-Email : nadav.abutbul@post.idc.ac.il
+Name : Nadav Tal
 */
 import std.StdIn;
 import java.util.HashMap;

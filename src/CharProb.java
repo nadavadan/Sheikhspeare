@@ -1,10 +1,6 @@
 
 /*
-Assignment number : 9.1
-File Name : charProb.java
-Name : nadav abutbul
-Student ID : 204328116
-Email : nadav.abutbul@post.idc.ac.il
+Name : Nadav Tal
 */
 /** Represents a character probability. Used only in the context of character probability lists
  *  of the form ((char_0,count_0,p_0,cp_0), (char_1,count_1,p_1,cp_1), ... (char_n,count_n,p_n,cp_n)), 
