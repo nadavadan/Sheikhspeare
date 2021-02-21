@@ -1,7 +1,7 @@
 /*
 Name : Nadav Tal
 */
-import std.StdIn;
+import StdIn.StdIn;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Random;

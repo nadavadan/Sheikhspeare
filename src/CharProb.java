@@ -9,7 +9,6 @@ Name : Nadav Tal
  *  probability of drawing at random char_i from the given string, and the field cp_i stores the cumulative
  *  probability of drawing either char_0, or char_1, or ... or char_i from the string.
  *  Note that in order to compute p and cp we need to know how many characters exist in the string,
- *  and that this information is available only outside this class.
  */
 class CharProb {
 
